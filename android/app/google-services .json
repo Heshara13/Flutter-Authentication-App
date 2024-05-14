@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478848027169",
+    "firebase_url": "https://authentication-app-f3cb8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "authentication-app-f3cb8",
+    "storage_bucket": "authentication-app-f3cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478848027169:android:5952771db89e0f3de6f160",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478848027169-4eqnruu5clgcebak4dla4a1sqvargv99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hDN70gBk7pKSYKQyuP3o1PQ7iZlTb_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478848027169-4eqnruu5clgcebak4dla4a1sqvargv99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
